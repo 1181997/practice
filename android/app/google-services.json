@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879564388991",
+    "project_id": "practice-e7fff",
+    "storage_bucket": "practice-e7fff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879564388991:android:d97f925503e3eeca821d4a",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKVdVg8f9nAV5_iYRJaDzjSjGBrKWSDmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
